@@ -1,7 +1,7 @@
 Item List Manager - HackerRank / React
 
 Task: 
-You are tasked with creating a simple React application called "Item List Manager" that displays a list of items and allows users to add new items to the list. The itesms will be displayed in an unordered list (<ul>), and there will be an input field along with a button to add new items to this list.
+You are tasked with creating a simple React application called "Item List Manager" that displays a list of items and allows users to add new items to the list. The items will be displayed in an unordered list (<ul>), and there will be an input field along with a button to add new items to this list.
 
 Detailed Requirements:
 1. When the application loads, it should display an empty list.
